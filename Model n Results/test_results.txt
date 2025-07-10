@@ -1,0 +1,14 @@
+=== HASIL FINAL TEST ===
+Accuracy test: 0.6724
+              precision    recall  f1-score   support
+
+         0.0       0.74      0.76      0.75        75
+         1.0       0.54      0.51      0.53        41
+
+    accuracy                           0.67       116
+   macro avg       0.64      0.64      0.64       116
+weighted avg       0.67      0.67      0.67       116
+
+Confusion Matrix:
+[[57 18]
+ [20 21]]
